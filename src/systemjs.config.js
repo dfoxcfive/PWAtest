@@ -27,7 +27,9 @@
       // other libraries
       'rxjs':                      'npm:rxjs',
       'angular-in-memory-web-api': 'npm:angular-in-memory-web-api/bundles/in-memory-web-api.umd.js',
-      'dexie': 'node_modules/dexie/dist/dexie.js'
+      'dexie': 'node_modules/dexie/dist/dexie.js',
+      'offline': 'node_modules/offline-js/offlien.js',
+      'offlinejs-simulate-ui-master': 'node_modules/offlinejs-simulate-ui-master/js/simulate-ui.js'
     },
     // packages tells the System loader how to load when no filename and/or no extension
     packages: {
