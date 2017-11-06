@@ -8,6 +8,6 @@
         "sizes": "192x192"
       }
     ],
-    "start_url": "/dashboard?launcher=true",
+    "start_url": "/dashboard",
     "display": "standalone"
   }
